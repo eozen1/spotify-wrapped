@@ -1,2 +1,2 @@
 # spotify-wrapped
- An Android app that generates custom spofiy wraps!
+ An Android app that generates custom Spotify wraps!
